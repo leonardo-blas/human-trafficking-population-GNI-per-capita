@@ -1,4 +1,4 @@
-# Human traficking, GNI per capita, and population
+# Human traficking, population, and GNI per capita
 
 ## Problem statement
 Human trafficking is often defined as the coercion of a person into labor, servitude, slavery, commercial sex, or organ removal. It is a global problem that impacts victims from all ages and socioeconomic backgrounds.
